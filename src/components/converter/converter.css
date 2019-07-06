@@ -1,0 +1,21 @@
+.unit-conversion-form {
+    padding-top: 20px;
+    padding-right: 25%;
+    padding-left: 25%;
+}
+
+.input-label {
+    font-weight: bold
+}
+
+.isInvalid {
+    color: #dc3545!important;
+}
+
+.btn-wrapper {
+    margin-top: 20px;
+}
+
+.output-wrapper {
+    margin-top: 20px;
+}
